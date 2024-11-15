@@ -40,11 +40,11 @@ This project demonstrates the use of Object-Oriented Programming principles to c
 2. **Navigate to the desired project:**
    - For structs:
      ```bash
-     cd structs-tads
+     cd tads-struct
      ```
    - For OOP:
      ```bash
-     cd oop-tads
+     cd tads-oop
      ```
 
 3. **Compile and run the code:**
