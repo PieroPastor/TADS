@@ -33,7 +33,7 @@ This project demonstrates the use of Object-Oriented Programming principles to c
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/tads-development.git
+   git clone https://github.com/pieropastor/tads.git
    cd tads-development
    ```
 
