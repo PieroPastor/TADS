@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configurationDescriptor version="100">
+  <logicalFolder name="root" displayName="root" projectFiles="true" kind="ROOT">
+    <logicalFolder name="HeaderFiles"
+                   displayName="Header Files"
+                   projectFiles="true">
+      <itemPath>AB.h</itemPath>
+      <itemPath>ABAVL.h</itemPath>
+      <itemPath>ABB.h</itemPath>
+      <itemPath>ABBA.h</itemPath>
+      <itemPath>Colas.h</itemPath>
+      <itemPath>ColasNPrioridades.h</itemPath>
+      <itemPath>Grafos.h</itemPath>
+      <itemPath>Listas.h</itemPath>
+      <itemPath>ListasCirculares.h</itemPath>
+      <itemPath>ListasDeListas.h</itemPath>
+      <itemPath>ListasDoblementeEnlazadas.h</itemPath>
+      <itemPath>ListasDodecalmenteEnlazadas.h</itemPath>
+      <itemPath>ListasOctalmenteEnlazadas.h</itemPath>
+      <itemPath>Pilas.h</itemPath>
+      <itemPath>TADS.h</itemPath>
+    </logicalFolder>
+    <logicalFolder name="ResourceFiles"
+                   displayName="Resource Files"
+                   projectFiles="true">
+    </logicalFolder>
+    <logicalFolder name="SourceFiles"
+                   displayName="Source Files"
+                   projectFiles="true">
+      <itemPath>AB.cpp</itemPath>
+      <itemPath>ABB.cpp</itemPath>
+      <itemPath>ABBA.cpp</itemPath>
+      <itemPath>Colas.cpp</itemPath>
+      <itemPath>ColasNPrioridades.cpp</itemPath>
+      <itemPath>Listas.cpp</itemPath>
+      <itemPath>ListasDodecalmenteEnlazadas.cpp</itemPath>
+      <itemPath>ListasOctalmenteEnlazadas.cpp</itemPath>
+      <itemPath>Pilas.cpp</itemPath>
+      <itemPath>main.cpp</itemPath>
+    </logicalFolder>
+    <logicalFolder name="TestFiles"
+                   displayName="Test Files"
+                   projectFiles="false"
+                   kind="TEST_LOGICAL_FOLDER">
+    </logicalFolder>
+    <logicalFolder name="ExternalFiles"
+                   displayName="Important Files"
+                   projectFiles="false"
+                   kind="IMPORTANT_FILES_FOLDER">
+      <itemPath>Makefile</itemPath>
+    </logicalFolder>
+  </logicalFolder>
+  <projectmakefile>Makefile</projectmakefile>
+  <confs>
+    <conf name="Debug" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+      </compileType>
+      <item path="AB.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AB.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ABAVL.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ABB.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ABB.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ABBA.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ABBA.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Colas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Colas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ColasNPrioridades.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ColasNPrioridades.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Grafos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Listas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Listas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListasCirculares.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListasDeListas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListasDoblementeEnlazadas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListasDodecalmenteEnlazadas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListasDodecalmenteEnlazadas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListasOctalmenteEnlazadas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListasOctalmenteEnlazadas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Pilas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Pilas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TADS.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+    <conf name="Release" type="1">
+      <toolsSet>
+        <compilerSet>default</compilerSet>
+        <dependencyChecking>true</dependencyChecking>
+        <rebuildPropChanged>false</rebuildPropChanged>
+      </toolsSet>
+      <compileType>
+        <cTool>
+          <developmentMode>5</developmentMode>
+        </cTool>
+        <ccTool>
+          <developmentMode>5</developmentMode>
+        </ccTool>
+        <fortranCompilerTool>
+          <developmentMode>5</developmentMode>
+        </fortranCompilerTool>
+        <asmTool>
+          <developmentMode>5</developmentMode>
+        </asmTool>
+      </compileType>
+      <item path="AB.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="AB.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ABAVL.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ABB.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ABB.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ABBA.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ABBA.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Colas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Colas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ColasNPrioridades.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ColasNPrioridades.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Grafos.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Listas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Listas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListasCirculares.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListasDeListas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListasDoblementeEnlazadas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListasDodecalmenteEnlazadas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListasDodecalmenteEnlazadas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="ListasOctalmenteEnlazadas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="ListasOctalmenteEnlazadas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="Pilas.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+      <item path="Pilas.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="TADS.h" ex="false" tool="3" flavor2="0">
+      </item>
+      <item path="main.cpp" ex="false" tool="1" flavor2="0">
+      </item>
+    </conf>
+  </confs>
+</configurationDescriptor>
